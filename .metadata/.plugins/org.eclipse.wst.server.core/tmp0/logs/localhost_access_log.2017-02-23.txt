@@ -1,0 +1,12 @@
+127.0.0.1 - - [23/Feb/2017:10:42:24 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [23/Feb/2017:10:42:25 +0530] "GET /restfullDynamicProject/ HTTP/1.1" 404 1040
+127.0.0.1 - - [23/Feb/2017:10:42:36 +0530] "GET /restfullDynamicProject/rest HTTP/1.1" 404 1010
+127.0.0.1 - - [23/Feb/2017:10:42:53 +0530] "GET /restfullDynamicProject/rest/hello HTTP/1.1" 404 1010
+127.0.0.1 - - [23/Feb/2017:10:42:55 +0530] "GET /restfullDynamicProject/rest/hello HTTP/1.1" 404 1010
+127.0.0.1 - - [23/Feb/2017:10:43:39 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [23/Feb/2017:10:43:39 +0530] "GET /restfullDynamicProject/ HTTP/1.1" 404 1040
+127.0.0.1 - - [23/Feb/2017:10:43:47 +0530] "GET /restfullDynamicProject/rest/hello HTTP/1.1" 200 12
+127.0.0.1 - - [23/Feb/2017:10:55:15 +0530] "GET /restfullDynamicProject/rest/hello HTTP/1.1" 200 12
+127.0.0.1 - - [23/Feb/2017:10:55:15 +0530] "GET /restfullDynamicProject/rest/hello HTTP/1.1" 200 12
+127.0.0.1 - - [23/Feb/2017:10:55:15 +0530] "GET /restfullDynamicProject/rest/hello HTTP/1.1" 200 49
+127.0.0.1 - - [23/Feb/2017:10:55:15 +0530] "GET /restfullDynamicProject/rest/hello HTTP/1.1" 200 76

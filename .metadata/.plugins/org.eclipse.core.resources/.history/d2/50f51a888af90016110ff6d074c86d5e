@@ -1,0 +1,5 @@
+package com.vogella.jersey.todo.resources;
+
+public class TodoResource {
+
+}

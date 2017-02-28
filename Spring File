@@ -1,0 +1,39 @@
+3 factory :
+
+beanfactory 
+ApplicationContextFactory
+webapplicationContextFactory 
+
+Scope 
+Singleton: one object 
+prototype : object per request or reference
+request
+session
+
+
+
+Life cycle method :
+
+  two inteface : impliment this two class 
+      Initializing bean 
+      disposabean
+   
+   Pojo Style :
+      init 
+      Distroy 
+       write in bean or global in xml file
+       
+       in bean  : <bean init_method = 'init'
+                   distory-method ='distroy'
+                   
+       in Global : 
+       
+       <beans default-int-method ='init'
+              default-distory-method ='init'
+              
+ 
+ By @post @distory from javax package
+ 
+ in distory method : registershutdownhook which is method of abstarct application context 
+   
+

@@ -1,0 +1,60 @@
+GitHub 
+Decentralize (distributed )
+Remote Repositoy 
+every clinet has local repository 
+	Benifit : two clinet can communicate without remote repostory or central repositoy 
+			  it work on internet envirnoment 
+Clint Side we requre git software 
+
+Steps to upload first project using command line 
+	Server Side  
+				1. Login to github / 
+				2. create new repository 
+				3. select check box readme 
+	Client Side : 
+				Git installation
+				1. git init  				// create a local repository 	
+				2 . git pull url            // pull the URL https://github.com/rajatsingh167/DevOps.git 
+				3 . git add bankApp
+				4 . git status    //  to check the uncommit file 
+				4 . git Comment -m "BankApp"
+				5 . git push url master
+				
+
+				
+By Elcipse : 
+
+create a blank repository without click on readme 
+path is SSh : https://github.com/rajatsingh167/Devops_Blank.git
+
+go to elcepse windw show veiw select git repository and git staging , history 
+
+write click to project 
+team 
+share project 
+it will open one window select git 
+next 
+click on create repostory 
+\git\LocalRepository 
+finish 
+finish 
+
+to add project 
+right click on project > team > commit 
+default thing commit 
+commit message 
+Select file 
+click on commit
+
+for push 
+right click to remote 
+create remote 
+click ok 
+ user id and password is optional 
+ 
+ optional advance = >  source ref sel;ect if u want and add speceifiaction for sacving  save specification click 
+ then finish 
+ 
+ clcik on save and push 
+ 
+ 

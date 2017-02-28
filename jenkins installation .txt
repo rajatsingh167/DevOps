@@ -1,0 +1,22 @@
+how to start jenkins 
+
+java -jar jenkins.war --httpPort=8888
+
+
+go to prowser 
+localhost:8888
+
+search for the password C:\Users\rajasing\.jenkins\secrets\initialAdminPassword
+
+continue 
+save the password 
+
+install suggested plugin 
+
+continue as admin 
+
+Jenkins home page 
+
+to check whete plugin is added or not 
+manage jenkins => manage plugin  => availabe / install=>
+

@@ -35,5 +35,14 @@ Life cycle method :
  By @post @distory from javax package
  
  in distory method : registershutdownhook which is method of abstarct application context 
+ 
+ 
+ <context:annotation-config/>
+<context:component-scan base-package="com.capgemini"/>
+
+
+ Steriotype Annotation :
+ @component
+ @controller
    
 

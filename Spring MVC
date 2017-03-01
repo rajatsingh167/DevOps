@@ -1,0 +1,11 @@
+Spring MVC life cycle :
+
+1  Dispetcher Servlet  <predefine class of spring>
+2  handeler mapping  <Bydefault class BeanNamedUrlHandlerMapping >
+3 Controller 
+4 modelandview
+5 viewresolver
+6 view 
+
+---------------------------------------------------------------------
+
